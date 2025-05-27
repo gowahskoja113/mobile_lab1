@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/trans_white_50" />
+    <corners android:radius="@dimen/corner_radius4" />
+</shape>
+    <!-- Màu trắng với độ trong suốt 50% -->
+    <!-- Bo góc với bán kính 4dp -->

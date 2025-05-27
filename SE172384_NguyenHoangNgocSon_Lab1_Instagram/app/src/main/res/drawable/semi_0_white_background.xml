@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/trans_white_100" />
+    <corners android:radius="@dimen/corner_radius4" />
+    <stroke
+        android:width="0dp"
+    android:color="@android:color/transparent" />
+</shape>
+
+    <!-- Màu nền -->
+    <!-- Bo góc với bán kính 4dp -->
+    <!-- Đặt chiều rộng của đường viền bằng 0 -->
+    <!-- Màu trong suốt để không thấy viền -->

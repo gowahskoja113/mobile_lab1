@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kích thước mặc định -->
+    <dimen name="corner_radius1">1dp</dimen>
+    <dimen name="corner_radius2">2dp</dimen>
+    <dimen name="corner_radius4">4dp</dimen>
+    <!-- Stroke Width -->
+    <dimen name="stroke_width1">1dp</dimen>
+    <dimen name="stroke_width2">2dp</dimen>
+
+    <!-- Padding và margin -->
+    <dimen name="khoangcach_10">10dp</dimen>
+    <dimen name="khoangcach20">20dp</dimen>
+    <dimen name="khoangcach30">30dp</dimen>
+    <dimen name="khoangcach40">40dp</dimen>
+    <dimen name="khoangcach50">50dp</dimen>
+    <dimen name="khoangcach60">60dp</dimen>
+    <dimen name="khoangcach120">120dp</dimen>
+    <!-- Kích thước chữ -->
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+</resources>

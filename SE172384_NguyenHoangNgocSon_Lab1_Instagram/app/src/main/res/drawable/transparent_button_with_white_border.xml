@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/trans_white_100"/>
+            <stroke android:width="@dimen/stroke_width2" android:color="@color/white" />
+            <corners android:radius="@dimen/corner_radius4" />
+        </shape>
+    </item>
+</selector>
+    <!-- Nền trong suốt -->
+    <!-- Viền màu trắng dày 2dp -->
+    <!-- Bo góc với bán kính 4dp -->

@@ -55,7 +55,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="24dp" />
 
-    <!-- Forgot password (tuỳ chọn) -->
     <TextView
         android:id="@+id/forgot_password"
         android:layout_width="wrap_content"

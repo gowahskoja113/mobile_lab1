@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Huynx</string>
+    <string name="user_name">User name</string>
+    <string name="pass_word">PassWord</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password_text">Forgot your login details? <b>Get help signing in.</b></string>
+    <string name="or_text">OR</string>
+    <string name="login_facebook">Log in with Facebook</string>
+    <string name="none_account_text">Don’t have an account? <b>Sign up.</b></string>
+
+</resources>
