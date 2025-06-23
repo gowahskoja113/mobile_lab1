@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FptMobileApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e57dae98285f220a49783657c81acf23bef47f07")]
 [assembly: System.Reflection.AssemblyProductAttribute("FptMobileApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FptMobileApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

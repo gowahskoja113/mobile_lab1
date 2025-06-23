@@ -4749,11 +4749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\FptMobileApi\\FptMobileApi.csproj",
+      "projectUniqueName": "F:\\code_prm\\FptMobileApi\\FptMobileApi.csproj",
       "projectName": "FptMobileApi",
-      "projectPath": "C:\\Users\\ADMIN\\FptMobileApi\\FptMobileApi.csproj",
+      "projectPath": "F:\\code_prm\\FptMobileApi\\FptMobileApi.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\FptMobileApi\\obj\\",
+      "outputPath": "F:\\code_prm\\FptMobileApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
